@@ -1,6 +1,6 @@
 furious:
   environment:
-    - name: directory
+    - name: DIRECTORY
       value: src
     - name: key1
       value: value1
