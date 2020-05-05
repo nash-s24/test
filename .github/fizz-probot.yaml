@@ -4,5 +4,7 @@ furious:
       value: src
     - name: key1
       value: value1
+    - name: key2
+      value: value2
 setting1: value1
 setting2: value2
