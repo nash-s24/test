@@ -1,10 +1,4 @@
-furious:
-  environment:
-    - name: DIRECTORY
-      value: src
-    - name: key1
-      value: value1
-    - name: key2
-      value: value2
+dependabot:
+  directory: "SOME_DIR"
 setting1: value1
 setting2: value2
