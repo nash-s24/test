@@ -1,3 +1,2 @@
 dependabot:
-  directory: some/dir
-setting1: value1
+  directory: src/main
